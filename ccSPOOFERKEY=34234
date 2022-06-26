@@ -5,8 +5,8 @@
 local Settings = {
     Spoof = {
         Ping = {
-        StartRange = 66,
-        EndRange = 31,
+        StartRange = 37,
+        EndRange = 55,
         }
     }
 }
